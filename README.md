@@ -13,29 +13,6 @@
 
 ---
 
-## 📑 Table of Contents
-1. [About Me](#-about-me)  
-2. [Quick Stats](#-quick-stats)  
-3. [Connect](#-connect-with-me)  
-4. [Languages & Tools](#-languages--tools)  
-5. [Tech Stack Animation](#-tech-stack-animation)  
-6. [Currently Learning](#-currently-learning)  
-7. [Upcoming Blogs](#-upcoming-blogs)  
-8. [Featured Projects](#-featured-projects)  
-9. [Projects Showcase](#-projects-showcase)  
-10. [Research & Publications](#-research--publications)  
-11. [Open Source Contributions](#-open-source-contributions)  
-12. [Achievements & Awards](#-achievements--awards)  
-13. [GitHub Trophies & Stats](#-github-trophies--stats)  
-14. [Contribution Graph](#-contribution-graph)  
-15. [Coding Profiles & Competitions](#-coding-profiles--competitions)  
-16. [Thought of the Day](#-thought-of-the-day)  
-17. [Now Playing](#-spotify-now-playing)  
-18. [Contact / Hire Me](#-reach-me)  
-19. [Footer & Credits](#-footer--credits)
-
----
-
 ### 👨‍💻 About Me  
 - ✨ Always curious and learning new technologies  
 - 🌱 Diving deeper into **Deep Learning**, **SEM + ML**, and **modern web frameworks**  
@@ -44,13 +21,6 @@
 - 📝 Planning to publish **technical blogs** soon  
 - ❤️ Passionate about **Open Source & Problem Solving**  
 - 🌐 Check my **[Portfolio](https://your-portfolio-link.com)**  
-
----
-
-### 📊 Quick Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MMABIDHASSAN&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ---
 
@@ -88,27 +58,12 @@
 
 ---
 
-### 📚 Currently Learning
-- Advanced **Machine Learning & AI**  
-- Deep Learning for **Image Classification**  
-- **Flutter Web Development**  
-
----
-
-### ✍️ Upcoming Blogs
-- 🧠 Deep Learning for Mango Leaf Disease Detection  
-- 📊 SEM + ML for Engineering Students’ Tech Adoption  
-- 💻 Flutter Web App Tutorials  
-
----
-
-### 🚀 Featured Projects
+### 🚀 Featured Projects  
 | Project | Description | Tech Stack | Demo |
 |--------|------------|------------|------|
-| **Money Manager App** | Flutter app to manage income & expenses with Firebase backend | Flutter · Firebase · Dart | [🔗 Live Demo](#) |
-| **DIU Student Portal** | Centralized platform for DIU students | HTML · CSS · JS · MySQL | [🔗 Live Demo](#) |
-| **Mango Leaf Disease Detection** | CNN model for mango leaf disease classification | CNN · TensorFlow · Python | [🔗 Live Demo](#) |
-| **DeepSeek SEM Analysis** | SEM + ML model analyzing adoption | Python · SEM · Pandas | [🔗 Live Demo](#) |
+| **Money Manager App** | A Flutter app to manage income & expenses with Firebase backend | Flutter · Firebase · Dart | [🔗 Live Demo](#) |
+| **DIU Student Portal** | Centralized platform for DIU students to manage academic tasks | HTML · CSS · JS · MySQL | [🔗 Live Demo](#) |
+| **Mango Leaf Disease Detection** | Deep Learning model for classifying mango leaf diseases | CNN · TensorFlow · Python | [🔗 Live Demo](#) |
 
 ---
 
@@ -130,11 +85,17 @@
 
 ---
 
-### 🏅 Competitive Programming Profiles
+### 🏅 Competitive Programming Profiles  
 <p align="center">
-  <a href="https://codeforces.com/profile/abidhasan"><img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" /></a>
+  <a href="https://codeforces.com/profile/abidhasan">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" />
+  </a>
 </p>
 
 ---
@@ -146,46 +107,33 @@
 
 ---
 
-### 🌟 Research & Publications
-- Adoption of DeepSeek by Engineering Students — SEM + ML (Report/Link)  
-- Mango Leaf Disease Classification — Dataset & Model (Repo/Link)  
-
----
-
-### 💻 Open Source Contributions
-- Contributed PRs/Bug fixes to [Project-Name](#)  
-- Maintainer of [Project-Name](#)  
-
----
-
-### 🏅 Achievements & Awards
-- Winner — XYZ Hackathon [Year]  
-- Merit Scholarship — Daffodil International University [Year]  
-- Top 3 — Inter-University Coding Competition [Year]  
+### 🎧 Spotify Now Playing  
+<p align="center">
+  <a href="https://open.spotify.com/user/yourusername">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
+  </a>
+</p>
 
 ---
 
 ### 🌟 Thought of the Day  
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Life%20is%20like%20riding%20a%20bicycle.%20To%20keep%20your%20balance%2C%20you+must+keep+moving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=ff4b82" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Life%20is%20like%20riding%20a%20bicycle.%20To%20keep%20your%20balance%2C%20you%20must%20keep%20moving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=ff4b82">
 </p>
 
 ---
 
-### 🎧 Spotify Now Playing
-<p align="center">
-  <a href="https://open.spotify.com/user/yourusername"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" /></a>
-</p>
-
----
-
-### ✉️ Reach Me
+### ✉️ Reach Me  
 📧 **Email:** [mmabidhassanshawon@email.com](mailto:mmabidhassanshawon@email.com)  
 🌐 **Portfolio:** [Coming Soon 🚀]  
 
 ---
 
-### 📌 Footer & Credits
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MMABIDHASSAN&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Views" />
+</p>
+
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
 </p>
