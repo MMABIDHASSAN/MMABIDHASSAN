@@ -7,8 +7,8 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀʙɪᴅ ʜᴀsᴀɴ! 
-*Full Stack Developer | Machine Learning Enthusiast*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀʙɪᴅ ʜᴀssᴀɴ! 
+*Front-end Developer | Machine Learning-(ML) & Structural Equation Modeling-(SEM) Enthusiast*
 <br /> 
 
 <!--Start Intro-->               
@@ -25,7 +25,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abidhasan&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Abid Hasan" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=MMABIDHASSAN&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Abid Hassan" style="padding-right:20px;" />
 </p>
 
 ---
@@ -42,13 +42,12 @@
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Improving my Flutter + Firebase app development skills.</li>
+  <li>Improving my Flutter Web Operations development skills.</li>
   <li>Exploring advanced SEM techniques and integrating ML models.</li>
 </ul>
   
 <h3 align="left">Upcoming Blogs</h3>
 <ul align="left">
-  <li>🚀 Flutter + Firebase Integration Guide</li>
   <li>🧠 Deep Learning for Mango Leaf Disease Detection</li>
   <li>📊 SEM + ML for Engineering Students’ Tech Adoption</li>
 </ul>
@@ -60,7 +59,7 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center">
-  <a href="https://github.com/abidhasan">
+  <a href="https://github.com/MMABIDHASSAN">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=abidhasan&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=abidhasan&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
@@ -87,7 +86,7 @@
       <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/abidhasan">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=abidhasan&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=MMABIDHASSAN&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -95,7 +94,7 @@
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/abidhasan">
-          <img align="center" src="https://streak-stats.demolab.com?user=abidhasan&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=MMABIDHASSAN&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -104,16 +103,16 @@
     <td width="50%">
       <h3 align="center"><strong>Latest Project</strong></h3>
       <p align="center">
-        <a href="https://github.com/abidhasan/money-manager">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=abidhasan&repo=money-manager&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
+        <a href="https://github.com/MMABIDHASSAN/money-manager">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=MMABIDHASSAN&repo=money-manager&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Top Contributions</strong></h3>
       <p align="center">
-        <a href="https://github.com/abidhasan">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=abidhasan&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        <a href="https://github.com/MMABIDHASSAN">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=MMABIDHASSAN&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -124,7 +123,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidhasan&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMABIDHASSAN&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -145,8 +144,8 @@
 <h2 align="center">🤝 Connect With Me 🤝 </h2>
 <div align="center">
   
-<a href="mailto:abidhasan@email.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="abidhasan@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:mmabidhassanshawon@email.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="mmabidhassanshawon@email.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/abid__hasan" target="_blank">
@@ -157,7 +156,7 @@
 <img src="./instagram.png" width=50 height=50 alt="instagram" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/abidhasan" target="_blank">
+<a href="https://github.com/MMABIDHASSAN" target="_blank">
 <img src="./github.png" width=50 height=50 alt="Abid Hasan" style="margin-bottom: 5px;" />
 </a>
 
