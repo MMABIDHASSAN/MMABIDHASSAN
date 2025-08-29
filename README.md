@@ -15,27 +15,48 @@
 
 ## 📑 Table of Contents
 <!-- Table of Contents as Buttons -->
+<!-- Table of Contents Buttons - 3 per row -->
 <p align="center">
+  <!-- Row 1 -->
   <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-FF4B82?style=for-the-badge&logo=ghost&logoColor=white" alt="About Me" /></a>
   <a href="#-quick-stats"><img src="https://img.shields.io/badge/Quick%20Stats-FF69B4?style=for-the-badge&logo=graph&logoColor=white" alt="Quick Stats" /></a>
   <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-XF6A?style=for-the-badge&logo=twitter&logoColor=white" alt="Connect" /></a>
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
   <a href="#-languages--tools"><img src="https://img.shields.io/badge/Languages%20%26%20Tools-8A2BE2?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Languages & Tools" /></a>
   <a href="#-tech-stack-animation"><img src="https://img.shields.io/badge/Tech%20Stack-20B2AA?style=for-the-badge&logo=react&logoColor=white" alt="Tech Stack" /></a>
   <a href="#-currently-learning"><img src="https://img.shields.io/badge/Currently%20Learning-FF6347?style=for-the-badge&logo=medium&logoColor=white" alt="Currently Learning" /></a>
+</p>
+
+<p align="center">
+  <!-- Row 3 -->
   <a href="#-upcoming-blogs"><img src="https://img.shields.io/badge/Upcoming%20Blogs-1E90FF?style=for-the-badge&logo=dev&logoColor=white" alt="Upcoming Blogs" /></a>
   <a href="#-featured-projects"><img src="https://img.shields.io/badge/Featured%20Projects-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="Featured Projects" /></a>
   <a href="#-projects-showcase"><img src="https://img.shields.io/badge/Projects%20Showcase-FFD700?style=for-the-badge&logo=gitlab&logoColor=white" alt="Projects Showcase" /></a>
+</p>
+
+<p align="center">
+  <!-- Row 4 -->
   <a href="#-research--publications"><img src="https://img.shields.io/badge/Research%20%26%20Publications-FF1493?style=for-the-badge&logo=researchgate&logoColor=white" alt="Research" /></a>
   <a href="#-open-source-contributions"><img src="https://img.shields.io/badge/Open%20Source-00CED1?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source" /></a>
   <a href="#-achievements--awards"><img src="https://img.shields.io/badge/Achievements%20%26%20Awards-FF4500?style=for-the-badge&logo=award&logoColor=white" alt="Achievements" /></a>
+</p>
+
+<p align="center">
+  <!-- Row 5 -->
   <a href="#-github-trophies--stats"><img src="https://img.shields.io/badge/GitHub%20Stats-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" /></a>
   <a href="#-contribution-graph"><img src="https://img.shields.io/badge/Contribution%20Graph-00FA9A?style=for-the-badge&logo=graph&logoColor=white" alt="Contribution Graph" /></a>
   <a href="#-coding-profiles--competitions"><img src="https://img.shields.io/badge/Coding%20Profiles-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Coding Profiles" /></a>
+</p>
+
+<p align="center">
+  <!-- Row 6 -->
   <a href="#-thought-of-the-day"><img src="https://img.shields.io/badge/Thought%20of%20the%20Day-FF69B4?style=for-the-badge&logo=quote&logoColor=white" alt="Thought of the Day" /></a>
   <a href="#-spotify-now-playing"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Now Playing" /></a>
   <a href="#-reach-me"><img src="https://img.shields.io/badge/Reach%20Me-DC143C?style=for-the-badge&logo=mailchimp&logoColor=white" alt="Reach Me" /></a>
 </p>
-
 
 ---
 
