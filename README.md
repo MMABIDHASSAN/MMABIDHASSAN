@@ -1,25 +1,25 @@
 <!-- Banner -->
 ![Banner](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
-<!-- Header Section -->
+<!-- Header -->
 <h1 align="center">Hi ✌️, I'm Abid Hasan</h1>
-<h3 align="center">Full Stack Developer | ML & SEM Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Machine Learning & SEM Enthusiast | Problem Solver</h3>
 
 <!-- Coding GIF -->
 <img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 <!-- Intro -->
 <p align="left">
-I'm a passionate developer and ML enthusiast who loves building impactful solutions. I enjoy working with modern tech stacks and solving real-world problems with clean, efficient code.
+I'm a passionate full stack developer and ML enthusiast from Bangladesh. I build modern web apps, explore deep learning, and enjoy solving real-world problems with clean, efficient code.
 </p>
 
 - ✨ Always learning and experimenting  
-- 🌱 Exploring **Deep Learning**, **SEM + ML**, and **modern web apps**  
+- 🌱 Currently exploring **Deep Learning**, **SEM + ML**, and **modern web app development**  
 - 📊 Researching **Mango Leaf Disease Classification** and **DeepSeek adoption using SEM + ML**  
 - 💻 Final-year student at **Daffodil International University (DIU)**  
 - 📝 Planning to start **technical blogs** soon  
-- ❤️ Contributing to **Open Source**  
-- 🌐 Check out my **[Portfolio](https://your-portfolio-link.com)**
+- ❤️ Love contributing to **Open Source**  
+- 🌐 Visit my [**Portfolio**](https://your-portfolio-link.com) for more details  
 
 <!-- Profile Views Badge -->
 <p align="left">
@@ -28,8 +28,8 @@ I'm a passionate developer and ML enthusiast who loves building impactful soluti
 
 ---
 
-<!-- Social Media Section -->
-<h2 align="center">🌐 Connect With Me 🌐</h2>
+<!-- Social Links -->
+<h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
 <a href="mailto:mmabidhassanshawon@email.com" target="_blank"><img src="./gmail.png" width=45 /></a>
 <a href="https://x.com/abid__hasan" target="_blank"><img src="./twitter.png" width=45 /></a>
@@ -78,6 +78,19 @@ I'm a passionate developer and ML enthusiast who loves building impactful soluti
 
 ---
 
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  <a href="https://github.com/MMABIDHASSAN/money-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMABIDHASSAN&repo=money-manager&theme=radical&bg_color=0,000000,441350&title_color=ff4b82&text_color=ffffff&show_owner=true" />
+  </a>
+  <a href="https://github.com/MMABIDHASSAN/DIU-Student-Portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMABIDHASSAN&repo=DIU-Student-Portal&theme=radical&bg_color=0,000000,441350&title_color=ff4b82&text_color=ffffff&show_owner=true" />
+  </a>
+</p>
+
+---
+
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <table width="100%">
@@ -105,6 +118,14 @@ I'm a passionate developer and ML enthusiast who loves building impactful soluti
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMABIDHASSAN&bg_color=220a28&color=ffffff&line=ff4b82&point=ffeb95&area=true&hide_border=false" />
+</p>
+
+---
+
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MMABIDHASSAN&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
