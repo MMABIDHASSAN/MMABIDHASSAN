@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, Flutter, Firebase, React.js, Node.js, REST API, RDBMS, and Data Visualization.</p>
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, Firebase, React.js, Node.js, REST API, RDBMS, and Data Visualization.</p>
 
 - ✨ Student of life :)
 - 🌱 Currently exploring Deep Learning, SEM + ML, and modern web app development.
@@ -25,7 +25,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MMABIDHASSAN&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Abid Hassan" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=MMABIDHASSAN&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="MMABIDHASSAN" style="padding-right:20px;" />
 </p>
 
 ---
@@ -61,9 +61,9 @@
 <p align="center">
   <a href="https://github.com/MMABIDHASSAN">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=abidhasan&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=abidhasan&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=abidhasan&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MMABIDHASSAN&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MMABIDHASSAN&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=MMABIDHASSAN&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
 </p>
@@ -166,10 +166,6 @@
 </div>
 <br/>
 
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/abidhasan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
 
 <!--Footer--> 
 <p align="center">
