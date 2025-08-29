@@ -10,7 +10,7 @@
 
 <!-- Coding GIF centered -->
 <p align="center">
-  <img alt="Coding" width="380" src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif" />
+  <img alt="Coding" width="380" src="[https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif](https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif)" />
 </p>
 
 ---
