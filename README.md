@@ -100,10 +100,14 @@
 </p>
 
 ### 🌟 Research & Publications
-- Adoption of DeepSeek by Engineering Students — SEM + ML (Report/Link)  
-- Mango Leaf Disease Classification — Dataset & Model (Repo/Link)  
+- Vegetables Leaf Classification — Dataset & Model (Repo/Link)  
 
-
+### ✍ Upcoming Blogs 
+- 📊 SEM + ML for Engineering Students’ Adoption of DeepSeek
+  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
+</p>
 
 ### 🚀 Featured Projects
 
@@ -114,14 +118,6 @@
 | *Mango Leaf Disease Detection* | CNN model for mango leaf disease classification | CNN · TensorFlow · Python | [🔗 Live Demo](#) |
 | *DeepSeek SEM Analysis* | SEM + ML model analyzing adoption | Python · SEM · Pandas | [🔗 Live Demo](#) |
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
-</p>
-
-### ✍ Upcoming Blogs
-- 🧠 Deep Learning for Mango Leaf Disease Detection  
-- 📊 SEM + ML for Engineering Students’ Tech Adoption  
-  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
 </p>
