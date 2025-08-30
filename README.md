@@ -10,21 +10,22 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MMABIDHASSAN&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
-
-<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 30px; flex-wrap: nowrap; margin-top: 30px;">
-
-  <!-- Profile Image -->
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
-       alt="Coding" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); height: 300px; width: 300px; object-fit: cover;">
-
-  <!-- Skills Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="Skills Animation" src="./Skills_Animation_White.gif" style="height: 300px; width: 300px; object-fit: cover; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-  </picture>
-
-</div>
+<!-- Profile Views -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
+           alt="Coding" width="350" height="350" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); object-fit: cover;">
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+        <img alt="Skills Animation" src="./Skills_Animation_White.gif" width="350" height="350" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); object-fit: cover;">
+      </picture>
+    </td>
+  </tr>
+</table>
 
   <!-- About Me Section -->
   <div style="max-width: 500px; text-align: left; line-height: 1.8;">
