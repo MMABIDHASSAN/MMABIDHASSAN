@@ -8,28 +8,28 @@
 <h3 align="center">💻 Beginner Developer | 🌱 Lifelong Learner | 🇧🇩 From Bangladesh</h3>
 
 <!-- About Me + Coding GIF two-column layout -->
-<table width="100%">
-  <tr>
-    <!-- Left: About Me -->
-    <td width="55%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>✨ Always curious and learning new technologies</li>
-        <li>🌱 Diving deeper into <strong>Deep Learning, SEM + ML, and modern web frameworks</strong></li>
-        <li>📊 Researching <strong>Mango Leaf Disease Detection</strong> and <strong>Tech Adoption Models</strong></li>
-        <li>💻 Final-year student at <strong>Daffodil International University (DIU)</strong></li>
-        <li>📝 Planning to publish <strong>technical blogs</strong> soon</li>
-        <li>❤ Passionate about <strong>Open Source & Problem Solving</strong></li>
-        <li>🌐 Check my <a href="https://your-portfolio-link.com">Portfolio</a></li>
-      </ul>
-    </td>
+<div style="display: flex; align-items: center; gap: 20px; margin-top: 20px;">
+  <!-- Profile Image -->
+  <div>
+    <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
+         alt="Coding" width="200" style="border-radius: 10px;">
+  </div>
 
-    <!-- Right: Coding GIF -->
-    <td width="45%" valign="top" align="center">
-      <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding GIF" width="300" />
-    </td>
-  </tr>
-</table>
+  <!-- About Me Section -->
+  <div>
+    <h3>👨‍💻 About Me</h3>
+    <ul>
+      <li>✨ Always curious and learning new technologies</li>
+      <li>🌱 Diving deeper into <i>Deep Learning, SEM + ML, and modern web frameworks</i></li>
+      <li>📊 Researching <i>Mango Leaf Disease Detection</i> and <i>Tech Adoption Models</i></li>
+      <li>💻 Final-year student at <i>Daffodil International University (DIU)</i></li>
+      <li>📝 Planning to publish <i>technical blogs</i> soon</li>
+      <li>❤ Passionate about <i>Open Source & Problem Solving</i></li>
+      <li>🌐 Check my <a href="https://your-portfolio-link.com">Portfolio</a></li>
+    </ul>
+  </div>
+</div>
+
 
 
 ---
