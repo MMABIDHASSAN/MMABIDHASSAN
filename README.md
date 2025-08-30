@@ -9,7 +9,7 @@
 
 <!-- Coding GIF centered -->
 <p align="center">
-  <img alt="Coding" width="380" src="[[https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif](https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fallbestvpn%2Fcyber-security-gifs%2F&psig=AOvVaw08kZxvmSqPAj-C1Eysc4MP&ust=1756597037427000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi5ltqEmLGPAxU226ACHbm9JcEQjRx6BAgAEBk)" />
+  <img alt="Coding" width="380" src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif" />
 </p>
 
 ---
