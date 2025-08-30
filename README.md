@@ -8,10 +8,12 @@
 <h3 align="center">💻 Beginner Developer | 🌱 Lifelong Learner | 🇧🇩 From Bangladesh</h3>
 
 <!-- About Me + Coding GIF two-column layout -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 30px;">
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=MMABIDHASSAN&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 30px;">
+
   <!-- Profile Image -->
   <div>
     <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
