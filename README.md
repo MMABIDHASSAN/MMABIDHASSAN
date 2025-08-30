@@ -10,21 +10,18 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MMABIDHASSAN&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
-<!-- Profile Views -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
-           alt="Coding" width="350" height="350" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); object-fit: cover;">
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_Dark.gif">
-        <img alt="Skills Animation" src="./Skills_Animation_White.gif" width="350" height="350" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); object-fit: cover;">
-      </picture>
-    </td>
-  </tr>
-</table>
+
+### 🛠 Languages & Tools  
+<p align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" /></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" /></a>
+</p>
 
   <!-- About Me Section -->
   <div style="max-width: 500px; text-align: left; line-height: 1.8;">
@@ -52,39 +49,6 @@
 
 ---
 
-### 🛠 Languages & Tools  
-<p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" /></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" /></a>
-</p>
-
----
-
-### ⚡ Tech Stack Animation  
-
-
----
-
-### ✍ Upcoming Blogs
-- 🧠 Deep Learning for Mango Leaf Disease Detection  
-- 📊 SEM + ML for Engineering Students’ Tech Adoption  
-- 💻 Flutter Web App Tutorials  
-
----
-
-### 🚀 Featured Projects
-| Project | Description | Tech Stack | Demo |
-|--------|------------|------------|------|
-| *Money Manager App* | Flutter app to manage income & expenses with Firebase backend | Flutter · Firebase · Dart | [🔗 Live Demo](#) |
-| *DIU Student Portal* | Centralized platform for DIU students | HTML · CSS · JS · MySQL | [🔗 Live Demo](#) |
-| *Mango Leaf Disease Detection* | CNN model for mango leaf disease classification | CNN · TensorFlow · Python | [🔗 Live Demo](#) |
-| *DeepSeek SEM Analysis* | SEM + ML model analyzing adoption | Python · SEM · Pandas | [🔗 Live Demo](#) |
 
 ---
 
@@ -120,17 +84,22 @@
 - Mango Leaf Disease Classification — Dataset & Model (Repo/Link)  
 
 ---
+### 🚀 Featured Projects
+| Project | Description | Tech Stack | Demo |
+|--------|------------|------------|------|
+| *Money Manager App* | Flutter app to manage income & expenses with Firebase backend | Flutter · Firebase · Dart | [🔗 Live Demo](#) |
+| *DIU Student Portal* | Centralized platform for DIU students | HTML · CSS · JS · MySQL | [🔗 Live Demo](#) |
+| *Mango Leaf Disease Detection* | CNN model for mango leaf disease classification | CNN · TensorFlow · Python | [🔗 Live Demo](#) |
+| *DeepSeek SEM Analysis* | SEM + ML model analyzing adoption | Python · SEM · Pandas | [🔗 Live Demo](#) |
 
-### 💻 Open Source Contributions
-- Contributed PRs/Bug fixes to [Project-Name](#)  
-- Maintainer of [Project-Name](#)  
+
 
 ---
 
-### 🏅 Achievements & Awards
-- Winner — XYZ Hackathon [Year]  
-- Merit Scholarship — Daffodil International University [Year]  
-- Top 3 — Inter-University Coding Competition [Year]  
+### ✍ Upcoming Blogs
+- 🧠 Deep Learning for Mango Leaf Disease Detection  
+- 📊 SEM + ML for Engineering Students’ Tech Adoption  
+  
 
 ---
 
