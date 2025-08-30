@@ -9,25 +9,22 @@
 
 <!-- About Me + Coding GIF two-column layout -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 30px;">
-  
+
   <!-- Profile Image -->
   <div>
     <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
-         alt="Coding" width="500" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+         alt="Coding" width="200" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
   </div>
 
   <!-- About Me Section -->
-  <div style="max-width: 500px; text-align: left;">
+  <div style="max-width: 500px; text-align: left; line-height: 1.8;">
     <h3>👨‍💻 About Me</h3>
-    <ul style="list-style: none; padding: 0; line-height: 1.6;">
-      <li>✨ Always curious and learning new technologies</li>
-      <li>🌱 Diving deeper into <i>Deep Learning, SEM + ML, and modern web frameworks</i></li>
-      <li>📊 Researching <i>Mango Leaf Disease Detection</i> and <i>Tech Adoption Models</i></li>
-      <li>💻 Final-year student at <i>Daffodil International University (DIU)</i></li>
-      <li>📝 Planning to publish <i>technical blogs</i> soon</li>
-      <li>❤ Passionate about <i>Open Source & Problem Solving</i></li>
-      <li>🌐 Check my <a href="https://your-portfolio-link.com">Portfolio</a></li>
-    </ul>
+    <p>
+      ✨ Always curious and learning new technologies. 🌱 Diving deeper into <i>Deep Learning, SEM + ML, and modern web frameworks</i>. 
+      📊 Researching <i>Mango Leaf Disease Detection</i> and <i>Tech Adoption Models</i>. 💻 Final-year student at <i>Daffodil International University (DIU)</i>. 
+      📝 Planning to publish <i>technical blogs</i> soon. ❤ Passionate about <i>Open Source & Problem Solving</i>. 
+      🌐 Check my <a href="https://your-portfolio-link.com">Portfolio</a>.
+    </p>
   </div>
 
 </div>
