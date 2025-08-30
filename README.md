@@ -1,52 +1,61 @@
 <!-- Banner -->
 ![Banner](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
+<h1 align="center">Hi ✌️, I'm M M ABID HASSAN</h1>
+<h3 align="center">💻 Beginner Developer | 🌱 Lifelong Learner | 🇧🇩 From Bangladesh</h3>
 <!-- Animated Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4B82&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Abid+Hasan;Full+Stack+Developer;ML+%26+SEM+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing Animation" />
 </h1>
 
-<h3 align="center">🚀 Turning Ideas into Scalable Products | Final Year DIU Student</h3>
+
 
 <!-- Coding GIF centered -->
 <p align="center">
-  <img alt="Coding" width="380" src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif" />
+  <img alt="Coding" width="380" src="[[https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif](https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fallbestvpn%2Fcyber-security-gifs%2F&psig=AOvVaw08kZxvmSqPAj-C1Eysc4MP&ust=1756597037427000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi5ltqEmLGPAxU226ACHbm9JcEQjRx6BAgAEBk)" />
 </p>
 
 ---
 
 ## 📑 Table of Contents
+<!-- Table of Contents as Buttons - 3 per row -->
 <p align="center">
+  <!-- Row 1 -->
   <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-FF4B82?style=for-the-badge&logo=ghost&logoColor=white" alt="About Me" /></a>
   <a href="#-quick-stats"><img src="https://img.shields.io/badge/Quick%20Stats-FF69B4?style=for-the-badge&logo=graph&logoColor=white" alt="Quick Stats" /></a>
   <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-XF6A?style=for-the-badge&logo=twitter&logoColor=white" alt="Connect" /></a>
 </p>
 
 <p align="center">
+  <!-- Row 2 -->
   <a href="#-languages--tools"><img src="https://img.shields.io/badge/Languages%20%26%20Tools-8A2BE2?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Languages & Tools" /></a>
   <a href="#-tech-stack-animation"><img src="https://img.shields.io/badge/Tech%20Stack-20B2AA?style=for-the-badge&logo=react&logoColor=white" alt="Tech Stack" /></a>
   <a href="#-currently-learning"><img src="https://img.shields.io/badge/Currently%20Learning-FF6347?style=for-the-badge&logo=medium&logoColor=white" alt="Currently Learning" /></a>
 </p>
 
 <p align="center">
+  <!-- Row 3 -->
   <a href="#-upcoming-blogs"><img src="https://img.shields.io/badge/Upcoming%20Blogs-1E90FF?style=for-the-badge&logo=dev&logoColor=white" alt="Upcoming Blogs" /></a>
   <a href="#-featured-projects"><img src="https://img.shields.io/badge/Featured%20Projects-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="Featured Projects" /></a>
   <a href="#-projects-showcase"><img src="https://img.shields.io/badge/Projects%20Showcase-FFD700?style=for-the-badge&logo=gitlab&logoColor=white" alt="Projects Showcase" /></a>
 </p>
 
 <p align="center">
+  <!-- Row 4 -->
   <a href="#-research--publications"><img src="https://img.shields.io/badge/Research%20%26%20Publications-FF1493?style=for-the-badge&logo=researchgate&logoColor=white" alt="Research" /></a>
   <a href="#-open-source-contributions"><img src="https://img.shields.io/badge/Open%20Source-00CED1?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source" /></a>
   <a href="#-achievements--awards"><img src="https://img.shields.io/badge/Achievements%20%26%20Awards-FF4500?style=for-the-badge&logo=award&logoColor=white" alt="Achievements" /></a>
 </p>
 
 <p align="center">
+  <!-- Row 5 -->
   <a href="#-github-trophies--stats"><img src="https://img.shields.io/badge/GitHub%20Stats-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" /></a>
   <a href="#-contribution-graph"><img src="https://img.shields.io/badge/Contribution%20Graph-00FA9A?style=for-the-badge&logo=graph&logoColor=white" alt="Contribution Graph" /></a>
   <a href="#-coding-profiles--competitions"><img src="https://img.shields.io/badge/Coding%20Profiles-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Coding Profiles" /></a>
 </p>
 
 <p align="center">
+  <!-- Row 6 -->
   <a href="#-thought-of-the-day"><img src="https://img.shields.io/badge/Thought%20of%20the%20Day-FF69B4?style=for-the-badge&logo=quote&logoColor=white" alt="Thought of the Day" /></a>
   <a href="#-spotify-now-playing"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Now Playing" /></a>
   <a href="#-reach-me"><img src="https://img.shields.io/badge/Reach%20Me-DC143C?style=for-the-badge&logo=mailchimp&logoColor=white" alt="Reach Me" /></a>
@@ -56,7 +65,7 @@
 
 ### 👨‍💻 About Me  
 - ✨ Always curious and learning new technologies  
-- 🌱 Diving deeper into *Deep Learning, SEM + ML, and modern web frameworks*  
+- 🌱 Diving deeper into *Deep Learning, **SEM + ML, and **modern web frameworks*  
 - 📊 Researching *Mango Leaf Disease Detection* and *Tech Adoption Models*  
 - 💻 Final-year student at *Daffodil International University (DIU)*  
 - 📝 Planning to publish *technical blogs* soon  
@@ -74,25 +83,25 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-<a href="mailto:mmabidhassanshawon@email.com"><img src="./gmail.png" width=45 /></a>
-<a href="https://x.com/abid__hasan"><img src="./twitter.png" width=45 /></a>
-<a href="https://www.instagram.com/abidhasan"><img src="./instagram.png" width=45 /></a>
-<a href="https://github.com/MMABIDHASSAN"><img src="./github.png" width=45 /></a>
-<a href="https://www.linkedin.com/in/abid-hasan"><img src="./linkedin.png" width=45 /></a>
+<a href="mailto:mmabidhassanshawon@email.com" target="_blank"><img src="./gmail.png" width=45 /></a>
+<a href="https://x.com/abid__hasan" target="_blank"><img src="./twitter.png" width=45 /></a>
+<a href="https://www.instagram.com/abidhasan" target="_blank"><img src="./instagram.png" width=45 /></a>
+<a href="https://github.com/MMABIDHASSAN" target="_blank"><img src="./github.png" width=45 /></a>
+<a href="https://www.linkedin.com/in/abid-hasan" target="_blank"><img src="./linkedin.png" width=45 /></a>
 </p>
 
 ---
 
 ### 🛠 Languages & Tools  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" /></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" /></a>
 </p>
 
 ---
@@ -116,10 +125,10 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack | Demo |
 |--------|------------|------------|------|
-| Money Manager App | Flutter app to manage income & expenses with Firebase backend | Flutter · Firebase · Dart | [🔗 Live Demo](#) |
-| DIU Student Portal | Centralized platform for DIU students | HTML · CSS · JS · MySQL | [🔗 Live Demo](#) |
-| Mango Leaf Disease Detection | CNN model for mango leaf disease classification | CNN · TensorFlow · Python | [🔗 Live Demo](#) |
-| DeepSeek SEM Analysis | SEM + ML model analyzing adoption | Python · SEM · Pandas | [🔗 Live Demo](#) |
+| *Money Manager App* | Flutter app to manage income & expenses with Firebase backend | Flutter · Firebase · Dart | [🔗 Live Demo](#) |
+| *DIU Student Portal* | Centralized platform for DIU students | HTML · CSS · JS · MySQL | [🔗 Live Demo](#) |
+| *Mango Leaf Disease Detection* | CNN model for mango leaf disease classification | CNN · TensorFlow · Python | [🔗 Live Demo](#) |
+| *DeepSeek SEM Analysis* | SEM + ML model analyzing adoption | Python · SEM · Pandas | [🔗 Live Demo](#) |
 
 ---
 
@@ -138,6 +147,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MMABIDHASSAN&layout=compact&theme=radical&bg_color=0,000000,441350&title_color=ff4b82&text_color=ffffff" width="40%"/>
 </p>
+
+---
 
 ---
 
