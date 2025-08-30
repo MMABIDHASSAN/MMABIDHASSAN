@@ -105,10 +105,6 @@
 ### ✍ Upcoming Blogs 
 - 📊 SEM + ML for Engineering Students’ Adoption of DeepSeek
   
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
-</p>
-
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Demo |
