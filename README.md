@@ -6,9 +6,27 @@
 </p>
 <h3 align="center">💻 Beginner Developer | 🌱 Lifelong Learner | 🇧🇩 From Bangladesh</h3> <br>
 
-<!-- Profile Views -->
+### 👀 Profile Insights
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MMABIDHASSAN&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <!-- Profile Views -->
+  <a href="https://github.com/MMABIDHASSAN" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=MMABIDHASSAN&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views" />
+  </a>
+  
+  <!-- Followers -->
+  <a href="https://github.com/MMABIDHASSAN?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/MMABIDHASSAN?label=Followers&style=for-the-badge&color=00CED1" alt="Followers" />
+  </a>
+  
+  <!-- Stars -->
+  <a href="https://github.com/MMABIDHASSAN?tab=stars" target="_blank">
+    <img src="https://img.shields.io/github/stars/MMABIDHASSAN?label=Stars&style=for-the-badge&color=FF4B82" alt="Stars" />
+  </a>
+</p>
+
+<!-- Optional: Recent Visitors Section (Name not shown, privacy safe) -->
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=MMABIDHASSAN.visitor-badge&left_color=FF69B4&right_color=00CED1" alt="Visitor Badge" />
 </p>
 
 ### 🛠 Languages & Tools  
