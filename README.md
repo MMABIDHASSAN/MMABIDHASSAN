@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
+![Banner](https://cdn.vectorstock.com/i/1000v/40/02/3d-banner-program-app-coding-web-page-vector-44554002.avif)
 <!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4B82&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+M+M+ABID+HASSAN;Front+End+Developer;ML+%26+SEM+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
