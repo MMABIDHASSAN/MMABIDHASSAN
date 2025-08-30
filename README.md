@@ -7,7 +7,7 @@
 <h3 align="center">💻 Beginner Developer | 🌱 Lifelong Learner | 🇧🇩 From Bangladesh</h3>
 
 <!-- Profile Views -->
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=MMABIDHASSAN&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 
