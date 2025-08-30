@@ -109,6 +109,14 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack | Demo |
 |--------|------------|------------|------|
+| ![#FF69B4](https://via.placeholder.com/15/FF69B4/000000?text=+) *Money Manager App* | Flutter app to manage income & expenses with Firebase backend | Flutter · Firebase · Dart | [🔗 Live Demo](#) |
+| ![#1E90FF](https://via.placeholder.com/15/1E90FF/000000?text=+) *DIU Student Portal* | Centralized platform for DIU students | HTML · CSS · JS · MySQL | [🔗 Live Demo](#) |
+| ![#32CD32](https://via.placeholder.com/15/32CD32/000000?text=+) *Mango Leaf Disease Detection* | CNN model for mango leaf disease classification | CNN · TensorFlow · Python | [🔗 Live Demo](#) |
+| ![#FFD700](https://via.placeholder.com/15/FFD700/000000?text=+) *DeepSeek SEM Analysis* | SEM + ML model analyzing adoption | Python · SEM · Pandas | [🔗 Live Demo](#) |
+
+
+| Project | Description | Tech Stack | Demo |
+|--------|------------|------------|------|
 | *Money Manager App* | Flutter app to manage income & expenses with Firebase backend | Flutter · Firebase · Dart | [🔗 Live Demo](#) |
 | *DIU Student Portal* | Centralized platform for DIU students | HTML · CSS · JS · MySQL | [🔗 Live Demo](#) |
 | *Mango Leaf Disease Detection* | CNN model for mango leaf disease classification | CNN · TensorFlow · Python | [🔗 Live Demo](#) |
