@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=MMABIDHASSAN&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 30px;">
+
 
   <!-- Profile Image -->
   <div>
