@@ -24,11 +24,6 @@
   </a>
 </p>
 
-<!-- Optional: Recent Visitors Section (Name not shown, privacy safe) -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=MMABIDHASSAN.visitor-badge&left_color=FF69B4&right_color=00CED1" alt="Visitor Badge" />
-</p>
-
 ### 🛠 Languages & Tools  
 <p align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" /></a>
