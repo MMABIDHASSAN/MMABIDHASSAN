@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4B82&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+M+M+ABID+HASSAN;Front+End+Developer;ML+%26+SEM+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
 </p>
-<h3 align="center">💻 Beginner Developer | 🌱 Lifelong Learner | 🇧🇩  🇧🇩 From Bangladesh</h3> <br>
+<h3 align="center">💻 Beginner Developer | 🌱 Lifelong Learner |  From 🇧🇩 Bangladesh</h3> <br>
 
 ### 👀 Profile Insights
 <p align="center">
