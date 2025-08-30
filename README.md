@@ -1,7 +1,5 @@
 <!-- Banner -->
 ![Banner](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
-
-<h1 align="center">Hi ✌️, I'm M M ABID HASSAN</h1>
 <h3 align="center">💻 Beginner Developer | 🌱 Lifelong Learner | 🇧🇩 From Bangladesh</h3>
 <!-- Animated Typing Header -->
 <h1 align="center">
