@@ -93,7 +93,7 @@
 
 ### 📈 Contribution Graph  
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMABIDHASSAN&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15" width="400" >
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMABIDHASSAN&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15" width="600" >
 </div>
 
 <p align="center">
