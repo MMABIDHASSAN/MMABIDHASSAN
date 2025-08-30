@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Banner]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fallbestvpn%2Fcyber-security-gifs%2F&psig=AOvVaw08kZxvmSqPAj-C1Eysc4MP&ust=1756597037427000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi5ltqEmLGPAxU226ACHbm9JcEQjRx6BAgAEBk](https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif))
+![Banner](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
+
 <!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4B82&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+M+M+ABID+HASSAN;Front+End+Developer;ML+%26+SEM+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
