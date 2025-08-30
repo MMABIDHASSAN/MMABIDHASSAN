@@ -67,15 +67,15 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MMABIDHASSAN&show_icons=true&theme=radical&bg_color=0,000000,441350&title_color=ff4b82&text_color=ffffff" width="250"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=MMABIDHASSAN&show_icons=true&theme=radical&bg_color=0,000000,441350&title_color=ff4b82&text_color=ffffff" width="350"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=MMABIDHASSAN&theme=radical&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&dates=ff4b82" width="250"/>
+      <img src="https://streak-stats.demolab.com?user=MMABIDHASSAN&theme=radical&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&dates=ff4b82" width="350"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MMABIDHASSAN&layout=compact&theme=radical&bg_color=0,000000,441350&title_color=ff4b82&text_color=ffffff" width="500"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MMABIDHASSAN&layout=compact&theme=radical&bg_color=0,000000,441350&title_color=ff4b82&text_color=ffffff" width="400"/>
     </td>
   </tr>
 </table>
@@ -83,7 +83,7 @@
 
 ### 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMABIDHASSAN&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMABIDHASSAN&theme=react-dark&hide_border=true" alt="Activity Graph" width="400" />
 </p>
 
 <p align="center">
