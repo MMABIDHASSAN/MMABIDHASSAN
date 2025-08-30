@@ -96,6 +96,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMABIDHASSAN&theme=react-dark&hide_border=true" alt="Activity Graph" width="600" />
 </p>
 
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMABIDHASSANbg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
 </p>
