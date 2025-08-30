@@ -72,9 +72,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MMABIDHASSAN&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
-</p>
 
 ### 📊 GitHub Stats  
 <table align="center">
