@@ -47,6 +47,12 @@
 <a href="https://www.linkedin.com/in/abid-hasan" target="_blank"><img src="./linkedin.png" width=45 /></a>
 </p>
 
+### ✉ Reach Me
+📧 *Email:* [mmabidhassanshawon@email.com](mailto:mmabidhassanshawon@email.com)  
+🌐 *Portfolio:* [Coming Soon 🚀]  
+
+---
+
 ---
 
 
@@ -108,22 +114,6 @@
   <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Life%20is%20like%20riding%20a%20bicycle.%20To%20keep%20your%20balance%2C%20you+must+keep+moving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=ff4b82" />
 </p>
 
----
-
-### 🎧 Spotify Now Playing
-<p align="center">
-  <a href="https://open.spotify.com/user/yourusername"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" /></a>
-</p>
-
----
-
-### ✉ Reach Me
-📧 *Email:* [mmabidhassanshawon@email.com](mailto:mmabidhassanshawon@email.com)  
-🌐 *Portfolio:* [Coming Soon 🚀]  
-
----
-
-### 📌 Footer & Credits
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
 </p>
