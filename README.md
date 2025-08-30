@@ -6,22 +6,30 @@
 </p>
 <h3 align="center">💻 Beginner Developer | 🌱 Lifelong Learner | 🇧🇩 From Bangladesh</h3>
 
-<!-- About Me + Coding GIF two-column layout -->
+<!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MMABIDHASSAN&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 
-  <!-- Profile Image1 -->
-  <div align="center">
-    <img   src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
-         alt="Coding" width="350" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-     <!-- Profile Image2 -->
-    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="center" alt="Skills Animation" src="./Skills_Animation_White.gif">
-</picture>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 30px;">
+
+  <!-- Profile Image -->
+  <div>
+    <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
+         alt="Coding" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); height: 350px; width: 350px; object-fit: cover;">
   </div>
+
+  <!-- Skills Animation -->
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+      <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+      <img alt="Skills Animation" src="./Skills_Animation_White.gif" style="height: 350px; width: 350px; object-fit: cover; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+    </picture>
+  </div>
+
+</div>
+
 
   <!-- About Me Section -->
   <div style="max-width: 500px; text-align: left; line-height: 1.8;">
