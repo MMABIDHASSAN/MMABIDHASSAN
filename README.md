@@ -20,7 +20,6 @@
     <td>
       <picture>
         <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_Black.gif">
-        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
         <img alt="Skills Animation" src="./Skills_Animation_White.gif" width="350" height="350" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); object-fit: cover;">
       </picture>
     </td>
