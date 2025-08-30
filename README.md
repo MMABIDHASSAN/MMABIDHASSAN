@@ -36,9 +36,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
-</p>
 
 ### 🌐 Connect With Me  
 <p align="center">
