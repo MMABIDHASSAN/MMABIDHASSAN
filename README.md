@@ -106,8 +106,9 @@
 - 🧠 Deep Learning for Mango Leaf Disease Detection  
 - 📊 SEM + ML for Engineering Students’ Tech Adoption  
   
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
+</p>
 
 ### 🌟 Thought of the Day  
 <p align="center">
