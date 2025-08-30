@@ -64,18 +64,21 @@
 </p>
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MMABIDHASSAN&show_icons=true&theme=radical&bg_color=0,000000,441350&title_color=ff4b82&text_color=ffffff" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MMABIDHASSAN&theme=radical&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&dates=ff4b82" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MMABIDHASSAN&layout=compact&theme=radical&bg_color=0,000000,441350&title_color=ff4b82&text_color=ffffff" width="300"/>
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MMABIDHASSAN&show_icons=true&theme=radical&bg_color=0,000000,441350&title_color=ff4b82&text_color=ffffff" width="250"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=MMABIDHASSAN&theme=radical&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&dates=ff4b82" width="250"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MMABIDHASSAN&layout=compact&theme=radical&bg_color=0,000000,441350&title_color=ff4b82&text_color=ffffff" width="500"/>
+    </td>
+  </tr>
+</table>
 
 
 ### 📈 Contribution Graph  
