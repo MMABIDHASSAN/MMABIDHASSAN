@@ -36,7 +36,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
+</p>
 
 ### 🌐 Connect With Me  
 <p align="center">
@@ -51,19 +53,18 @@
 📧 *Email:* [mmabidhassanshawon@email.com](mailto:mmabidhassanshawon@email.com)  
 🌐 *Portfolio:* [Coming Soon 🚀]  
 
----
-
----
-
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
+</p>
 
 ### 🏆 GitHub Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MMABIDHASSAN&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
+</p>
 
 ### 📊 GitHub Stats  
 <p align="center">
@@ -74,22 +75,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MMABIDHASSAN&layout=compact&theme=radical&bg_color=0,000000,441350&title_color=ff4b82&text_color=ffffff" width="40%"/>
 </p>
 
----
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
+</p>
 
 ### 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMABIDHASSAN&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
+</p>
 
 ### 🌟 Research & Publications
 - Adoption of DeepSeek by Engineering Students — SEM + ML (Report/Link)  
 - Mango Leaf Disease Classification — Dataset & Model (Repo/Link)  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
+</p>
+
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack | Demo |
 |--------|------------|------------|------|
@@ -98,9 +104,9 @@
 | *Mango Leaf Disease Detection* | CNN model for mango leaf disease classification | CNN · TensorFlow · Python | [🔗 Live Demo](#) |
 | *DeepSeek SEM Analysis* | SEM + ML model analyzing adoption | Python · SEM · Pandas | [🔗 Live Demo](#) |
 
-
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff4b82&height=70&section=footer"/>
+</p>
 
 ### ✍ Upcoming Blogs
 - 🧠 Deep Learning for Mango Leaf Disease Detection  
